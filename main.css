@@ -6,6 +6,9 @@
     padding-left: 20px;
     padding-top: 20px;
   }
+  .logo{
+    padding-left: 50px;
+  }
   
   .btn-secondary{
     background-color: rgb(182, 118, 35);
