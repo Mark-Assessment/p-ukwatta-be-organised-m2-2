@@ -1,0 +1,26 @@
+*{
+    background-color: cornsilk;
+    font-family: Roboto;
+  }
+  .dropdown{
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  
+  .btn-secondary{
+    background-color: rgb(182, 118, 35);
+  }
+  .introduction{
+    padding-left: 600px;
+    padding-top: 200px;;
+  }
+  
+  .description{
+    display: flex;
+    text-align: center;
+  }
+  .heading{
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+  }
