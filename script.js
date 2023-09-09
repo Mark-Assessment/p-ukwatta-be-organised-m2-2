@@ -5,6 +5,10 @@ const todoList = [{
     listItems:'write the Readme file',
     dueDate: '28/08/2023'
   }];
+
+  function youDidIt() {
+    alert("Well Done, You finished the task!!!");
+  }
   
   makeAvailableTodoList();
   
@@ -21,6 +25,7 @@ const todoList = [{
         <button onclick="
           todoList.splice(${i},1);
           makeAvailableTodoList();
+          youDidIt();
         "class="delete-todo-button">Delete</button>
         `;
       todoListHTML += html;
