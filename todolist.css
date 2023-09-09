@@ -71,7 +71,7 @@ body{
   }
   
   .delete-todo-button{
-    background-color:burlywood;
+    background-color:rgb(160, 47, 47);
     color: white;
     border: none;
     font-size: 20px;
