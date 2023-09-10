@@ -47,7 +47,7 @@ function stopwatch() {
       hide.style.display = "none";
     }
     
-    // create event listeners
+    
     let startButton = document.getElementById("start");
     let pauseButton = document.getElementById("stop");
     let resetButton = document.getElementById("reset");
