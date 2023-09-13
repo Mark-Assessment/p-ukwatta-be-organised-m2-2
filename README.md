@@ -2,6 +2,8 @@
 
 "Be organised and achieve the dreams" application is designed to be responsive that allow visitors to view on a range of devices. And also it helps the visitors to be organised in their day today work and to reach the dreams.
 
+![Am I responsive](assets/images/Am%20I%20responsive1.PNG)
+
 
 
 
