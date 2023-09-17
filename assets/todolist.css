@@ -1,9 +1,9 @@
-@media (min-width:500px){
+@media (min-width:500px){}
   body{
     font-family: Roboto;
      
   }
-  }
+  
   .btn-secondary{
     background-color: rgb(182, 118, 35);
   }
