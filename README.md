@@ -76,7 +76,7 @@ Wireframes were created for mobile, tablet and desktop.
 
 #### Home Page Wireframe
 
-![BeOrganised](assets/images/Front Page.PNG)
+![BeOrganised](assets/images/Front Page.png)
 
 
 
