@@ -107,8 +107,8 @@ This web application has three pages.Two of the pages are accessible from the dr
 ## ACCESSIBILITY
 
 This application has been carefully desined in order to be accessible friendly as posible. Accessibility has been achieved by,
-     * Using semantic HTML
-     * Ensuring that the colour contrast is sufficient enough through out the web application.
+     ..* Using semantic HTML
+     ..* Ensuring that the colour contrast is sufficient enough through out the web application.
       
 
     
