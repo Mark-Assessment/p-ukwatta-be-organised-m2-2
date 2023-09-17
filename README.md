@@ -88,6 +88,34 @@ Wireframes were created for mobile, tablet and desktop.
 #### Timer Wireframe
 ![The Timer to Stay Focused](assets/images/Stop Watch.png)
 
+## FEATURES
+
+This web application has three pages.Two of the pages are accessible from the dropdown menu (TodoList to be prepared, The timer to be stay focused).
+    * Be Organised page
+
+    This page has a drop down menu that navigates to other two pages that are Todolist to be prepared page and The Timer to Stay Focused.
+
+    * Todolist to be prepared page
+
+    This page has a drop down menu that navigates to other two pages that are Be Organised page and The Timer to Stay Focused.
+
+    * The Timer to Stay Focused
+
+    This page has a drop down menu that navigates to other two pages that are Be Organised page and Todolist to be prepared page.
+
+
+## ACCESSIBILITY
+
+This application has been carefully desined in order to be accessible friendly as posible. Accessibility has been achieved by,
+     * Using semantic HTML
+     * Ensuring that the colour contrast is sufficient enough through out the web application.
+      
+
+    
+
+
+
+
 
 I am a worker who works in the retail and the care sectors. I learn programming while I am working. Therefore I have a very tight schedule and it is very difficult to find time to study. Finding a study has become more challenging on hectic days due to the physical tiredness of work in the work places. 
 I somhow had to achieve my targets in order to reach my dreams. As the first step of achieving my dream, it was realised that my daily routines needed to be more organised. First of all I wrote down my dreams. And then they were broken down in to sub sections. Then those sub-section were divided in tasks that can be achieved in a given time period of time. Following the concepts of " Eating the elephant in bite sizes" and also SMART (S-specific, M-measurable, A-achievable, R-relavent, T-time bound) theory were applied. 
