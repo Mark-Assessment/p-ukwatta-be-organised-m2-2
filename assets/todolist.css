@@ -26,8 +26,7 @@
     justify-items: center;
     grid-row-gap: 20px;
     width: 100%;
-    padding-left: 10px;
-    padding-right: 10px
+    
 
     
   }
@@ -39,6 +38,8 @@
     column-gap: 10px;
     row-gap: 10px;
     align-items: center;
+    padding-left: 10px;
+    padding-right: 10px
     
   }
   .list-input{
