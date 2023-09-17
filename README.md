@@ -91,17 +91,17 @@ Wireframes were created for mobile, tablet and desktop.
 ## FEATURES
 
 This web application has three pages.Two of the pages are accessible from the dropdown menu (TodoList to be prepared, The timer to be stay focused).
-    * Be Organised page
 
-    This page has a drop down menu that navigates to other two pages that are Todolist to be prepared page and The Timer to Stay Focused.
+* Be Organised Page
 
-    * Todolist to be prepared page
+This page has a drop down menu that navigates to other two pages that are Todilist to be prepared page and The Timer to Stay Focused.
 
-    This page has a drop down menu that navigates to other two pages that are Be Organised page and The Timer to Stay Focused.
+* TodoList to be prepared page
+The page has a drop down menu that navigates to other two pages that are Be Organied page and The Timer to Stay Focused.
 
-    * The Timer to Stay Focused
-
-    This page has a drop down menu that navigates to other two pages that are Be Organised page and Todolist to be prepared page.
+*The Timer to Stay Focused
+This page has a drop down menu that navigates to other two pages that are Be Organised page and TodoList to be prepared page. 
+  
 
 
 ## ACCESSIBILITY
