@@ -107,8 +107,10 @@ This page has a drop down menu that navigates to other two pages that are Be Org
 ## ACCESSIBILITY
 
 This application has been carefully desined in order to be accessible friendly as posible. Accessibility has been achieved by,
-     ..* Using semantic HTML
-     ..* Ensuring that the colour contrast is sufficient enough through out the web application.
+* Using semantic HTML
+* Ensuring that the colour contrast is sufficient enough through out the web application.
+
+
       
 
     
