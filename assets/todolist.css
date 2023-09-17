@@ -1,7 +1,6 @@
 @media (min-width:500px){
   body{
     font-family: Roboto;
-    
      
   }
   }
@@ -27,8 +26,6 @@
     grid-row-gap: 20px;
     width: 100%;
     
-
-    
   }
   
   .todo-grid,
@@ -39,9 +36,7 @@
     row-gap: 10px;
     align-items: center;
     
-    
   }
-
   .list-input{
     border-style: solid;
     border-radius: 10px;
@@ -59,7 +54,6 @@
   .todo-input-grid{
     margin-bottom: 10px;
     align-items: stretch;
-    
     
   }
   
