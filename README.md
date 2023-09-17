@@ -110,10 +110,33 @@ This application has been carefully desined in order to be accessible friendly a
 * Using semantic HTML
 * Ensuring that the colour contrast is sufficient enough through out the web application.
 
+## TECHNOLOGIES USED
+* Languages Used
+     * HTML,CSS and JavaScript were ued to create this web application.
+     * Frameworks and Programs used
+     * Balsamiq was used to create wireframes.
+     * Git was used for version control.
+     * Github was used to save and store the files for the application.
+     * Google Fonts are used to import the fonts used on the web application.
+     * Google Dev Tools were used to troubleshoot and test features, solve issues with regard to the responsiveness and styling.
+     * Am I responsive? has been used to ensure the web application is responsive for all the devices.
 
-      
+## DEPLOYMENT AND LOCAL DEVELOPMENT
 
-    
+### Deployment
+Github pages has been used to deploy the live website. 
+
+The instructions are a follows:
+
+
+1. Log in to Github
+2. Find the reporsitory for the particular project, BE ORGANISED AND ACHIEVE THE DREAMS.
+3. Click on the Settings link
+4. Click on the pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the dropdown, select the branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github pages site is now deployed at the URL down.
+
+
 
 
 
