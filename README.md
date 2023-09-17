@@ -61,6 +61,14 @@
 
 ![Color themes](assets/images/Coolors.PNG)
 
+The web application uses a palette of colours that are used in BE ORGANISED AND ACHIEVE THE DREAMS logo, images, buttons and menues. The colour palette was created using the Coolors website.
+
+## TYPOGRAPHY
+"Roboto" font in Google Fonts was used for the whole web application.
+
+## IMAGERY
+
+All the images were created using the ![Snipping tool](https://g.co/kgs/hXKJvz) software.
 
 
 I am a worker who works in the retail and the care sectors. I learn programming while I am working. Therefore I have a very tight schedule and it is very difficult to find time to study. Finding a study has become more challenging on hectic days due to the physical tiredness of work in the work places. 
