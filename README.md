@@ -19,6 +19,29 @@
      * Features
      * Accessibility
 
+* Technologies Used
+     * Languages
+     * Frameworks and Programs 
+
+* Deployment  
+
+* Testing
+     * W3C Validator
+     * Solved Bugs
+     * Known Bugs
+     * Testing User Stories
+     * Lighthouse
+        * Index page
+        * TodoList page
+        * Timer page
+     * Full Testing
+
+* Credits
+     * Code Used
+     * Content
+     * Media
+     * Acknowledgement
+
 
 
 I am a worker who works in the retail and the care sectors. I learn programming while I am working. Therefore I have a very tight schedule and it is very difficult to find time to study. Finding a study has become more challenging on hectic days due to the physical tiredness of work in the work places. 
