@@ -8,8 +8,8 @@
 
 ## CONTENTS
 * User Experience (UX)
-..* Initial Discussion
-..* User stories
+     * Initial Discussion
+     * User stories
 
 
 
