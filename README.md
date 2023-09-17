@@ -42,6 +42,25 @@
      * Media
      * Acknowledgement
 
+## USER EXPERIENCE
+
+### First Time Visitor Goals
+1. To be able to view the application on a range of device sizes.
+2. To get an idea how to organise your day to day tasks.
+3. To get an idea how to achieve each task with an allocated time.
+
+### Frequent Visitor Goals
+
+1. To be able to use the application as habbit in day today life.
+2. To be able to organise your life in order to achieve the dream goals.
+
+
+## DESIGN
+
+### Color scheme
+
+![Color themes](assets/images/Coolors.PNG)
+
 
 
 I am a worker who works in the retail and the care sectors. I learn programming while I am working. Therefore I have a very tight schedule and it is very difficult to find time to study. Finding a study has become more challenging on hectic days due to the physical tiredness of work in the work places. 
