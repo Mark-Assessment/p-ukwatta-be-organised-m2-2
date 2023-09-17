@@ -75,17 +75,17 @@ All the images were created using the Snipping tool software.
 Wireframes were created for mobile, tablet and desktop.
 
 #### Home Page Wireframe
-![Be Organised](assets/images/wireframes/Front Page.png)
+![Be Organised](images/wireframes/Front Page.png)
 
 
 
 #### Todolist to be prepared Wireframe
-![todolist to be prepared](assets/images/wireframes/ToDoList Page.png)
+![todolist to be prepared](images/wireframes/ToDoList Page.png)
 ##### Todolist to be prepared Wireframe with alert box
-![todolist to be prepared](assets/images/wireframes/ToDoList Page with Alert box.png)
+![todolist to be prepared](images/wireframes/ToDoList Page with Alert box.png)
 
 #### Timer Wireframe
-![Timer](assets/images/wireframes/Stop Watch.png)
+![The Timer to Stay Focused](images/wireframes/Stop Watch.png)
 
 
 I am a worker who works in the retail and the care sectors. I learn programming while I am working. Therefore I have a very tight schedule and it is very difficult to find time to study. Finding a study has become more challenging on hectic days due to the physical tiredness of work in the work places. 
