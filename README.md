@@ -6,10 +6,10 @@
 
 [View BE ORGANISED AND ACHIEVE THE DREAMS as an application on web.](https://8000-piumianurad-beorganised-k1t7zwbttik.ws-eu104.gitpod.io/index.html)
 
-##CONTENTS
-*User Experience (UX)
-..*Initial Discussion
-..*User stories
+## CONTENTS
+* User Experience (UX)
+..* Initial Discussion
+..* User stories
 
 
 
