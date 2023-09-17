@@ -75,7 +75,8 @@ All the images were created using the Snipping tool software.
 Wireframes were created for mobile, tablet and desktop.
 
 #### Home Page Wireframe
-![Be Organised](assets/images/Front Page.png)
+
+![BeOrganised](assets/images/Front Page.PNG)
 
 
 
