@@ -157,15 +157,29 @@ In this application manual testings have been performed. The reasons for perform
 W3C Validator has been used to validate all three HTML pages and CSS pages.
 The screen shots are as follows:
 
-
-
+### HTML W3C Validator for index, stopwatch and todolist pages
+![index.html](assets/images/index-css-validation.PNG)
+*********
+![todolist.html](assets/images/todolist-no-errors.PNG)
+*********
+![stopwatch.html](assets/images/stopwatch-no-errors.PNG)
+********
 
 ### CSS W3C Validator for index.css, stopwatch and for the todo list page
 
 
 ![index.css](assets/images/index-css-validation.PNG)
+********
 ![stopwatch.css](assets/images/stopwatch-css-validation.PNG)
+**********
 ![todolist.css](assets/images/todolist-css-validation.PNG)
+***********
+
+### JSHint for Javascript
+![jshint](assets/images/todolist-jshint.PNG)
+
+*********
+
 
 
 
