@@ -76,7 +76,7 @@ Wireframes were created for mobile, tablet and desktop.
 
 #### Home Page Wireframe
 
-![Be Organised][assets/images/Front Page.png]
+![Be Organised](assets/images/Front Page.png)
 
 
 #### Todolist to be prepared Wireframe
