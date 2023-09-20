@@ -85,7 +85,7 @@ Wireframes were created for mobile, tablet and desktop.
 ![todolist to be prepared](assets/images/ToDoList Page with Alert box.png)
 
 #### Timer Wireframe
-![The Timer to Stay Focused](assets/images/Stop Watch.png)
+![The Timer to Stay Focused](assets/images/StopWatch.png)
 
 ## FEATURES
 
