@@ -184,10 +184,10 @@ The screen shots are as follows:
 ## TESTING USER STORIES
 
 ### First timer visitor
-** I find this web application easier to navigate with the dropdown menu and the color themes that have been used are very beautiful that encourage to use and stay on the application while making the day to day tasks organised.
+* I find this web application easier to navigate with the dropdown menu and the color themes that have been used are very beautiful that encourage to use and stay on the application while making the day to day tasks organised.
 
 ### Returning Visitor
-** This application is very helpful when organising daily routines and working according to a stopwatch.
+* This application is very helpful when organising daily routines and working according to a stopwatch.
 
 
 
