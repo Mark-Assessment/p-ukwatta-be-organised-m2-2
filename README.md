@@ -4,7 +4,9 @@
 
 ![Am I responsive](assets/images/Am%20I%20responsive1.PNG)
 
-[View BE ORGANISED AND ACHIEVE THE DREAMS as an application on web.](https://8000-piumianurad-beorganised-k1t7zwbttik.ws-eu104.gitpod.io/index.html)
+**********************
+
+[View BE ORGANISED AND ACHIEVE THE DREAMS as an application on web.](https://piumianuradha.github.io/Be-Organised/)
 
 ## CONTENTS
 * User Experience (UX)
@@ -77,19 +79,19 @@ Wireframes were created for mobile, tablet and desktop.
 ### Home Page Wireframe
 
 ![Be Organised](assets/images/FrontPage.png)
-------------
+**********************
 
 
 ### Todolist to be prepared Wireframe
 ![todolist to be prepared](assets/images/ToDoListPage.png)
-------------
+**********************
 ### Todolist to be prepared Wireframe with alert box
 ![todolist to be prepared](assets/images/ToDoListPagewithAlertbox.png)
----------
+**********************
 
 ### Timer Wireframe
 ![The Timer to Stay Focused](assets/images/StopWatch.png)
----------------
+**********************
 
 ## FEATURES
 
