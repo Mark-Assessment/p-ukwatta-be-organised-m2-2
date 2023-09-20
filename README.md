@@ -77,15 +77,19 @@ Wireframes were created for mobile, tablet and desktop.
 ### Home Page Wireframe
 
 ![Be Organised](assets/images/FrontPage.png)
+------------
 
 
 ### Todolist to be prepared Wireframe
 ![todolist to be prepared](assets/images/ToDoListPage.png)
+------------
 ### Todolist to be prepared Wireframe with alert box
 ![todolist to be prepared](assets/images/ToDoListPagewithAlertbox.png)
+---------
 
 ### Timer Wireframe
 ![The Timer to Stay Focused](assets/images/StopWatch.png)
+---------------
 
 ## FEATURES
 
