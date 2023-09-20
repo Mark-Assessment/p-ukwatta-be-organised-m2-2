@@ -192,7 +192,9 @@ Chrome developer, Lighthouse has been used to test the performance, accesibility
 
 Lighthouse
 I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
+**************
 ![lighthouse](assets/images/lighthouse.PNG)
+***********
 
 ## CREDIT
 ### Acknowledgement
