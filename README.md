@@ -158,8 +158,10 @@ The screen shots are as follows:
 
 ### CSS W3C Validator for index.css, stopwatch and for the todo list page
 
-![Be Organised](assets/images/FrontPage.png)
+
 ![index.css](assets/images/index-css-validation.PNG)
+![stopwatch.css](assets/images/stopwatch-css-validation.PNG)
+![todolist.css](assets/images/todolist-css-validation.PNG)
 
 
 
