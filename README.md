@@ -80,7 +80,7 @@ Wireframes were created for mobile, tablet and desktop.
 
 
 #### Todolist to be prepared Wireframe
-![todolist to be prepared](assets/images/ToDoList Page.png)
+![todolist to be prepared](assets/images/ToDoListPage.png)
 ##### Todolist to be prepared Wireframe with alert box
 ![todolist to be prepared](assets/images/ToDoListPagewithAlertbox.png)
 
@@ -134,6 +134,33 @@ The instructions are a follows:
 4. Click on the pages link in the left hand side navigation bar.
 5. In the Source section, choose main from the dropdown, select the branch menu. Select Root from the drop down select folder menu.
 6. Click Save. Your live Github pages site is now deployed at the URL down.
+
+## TESTING
+### Principles of automated and manual testing
+Automated testings are performed with according to a script. And also automated testings are executed via test automation frameworks and with other tools and software. Therefore automated testings are faster.
+
+Automated testing allows the developers to test as much as they want without making high costs.Not only giving the benefit of frequent testing, it provides the continuous feedback to the developer to spot the bugs and errors at the beginning. And also it allows the developer to improve the design, code quality, timely launches, reduces the quality, low mainenance.
+
+Manual testings are performed by humans step by steps without a script. And in manual testing, exploratary testings are posible.
+
+### Testing in this application
+
+In this application manual testings have been performed. The reasons for performing manual testings are, 
+     * Human observation can be used in this application which can be useful to offer user-friendly system.
+     * Automation tests can be time consuming when testing small changes in the codes. 
+
+### W3C Validator
+W3C Validator has been used to validate all three HTML pages and CSS pages.
+The screen shots are as follows:
+
+
+
+
+### CSS W3C Validator for index.css, stopwatch and for the todo list page
+
+![Be Organised](assets/images/FrontPage.png)
+![index.css](assets/images/index-css-validation.PNG)
+
 
 
 
