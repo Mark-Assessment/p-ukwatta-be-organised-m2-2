@@ -3,14 +3,31 @@
   font-family: Roboto;
 }
 .dropdown{
+  display: grid;
+  justify-content: center;
   padding-left: 20px;
   padding-top: 20px;
+  
+}
+
+.dropdown-toggle{
+  padding: 5px;
+  font-size: 15px;
+}
+.dropdown-item{
+  padding: 5px;
+}
+
+.dropdown-menu{
+  font-size: 12px;
+  padding:5px;
 }
 
 .logo{
   display: grid;
   justify-content: center;
-  font-size: 25px;
+  font-size: 20px;
+  padding: 45px;
   
 }
 
@@ -21,6 +38,8 @@
   display: grid;
   justify-content: center;
   padding-top: 120px;
+  padding-left: 20px;
+  padding-right: 20px;
   
   
 }
@@ -32,5 +51,7 @@
 .heading{
   display: flex;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
+  padding-left: 18px;
+  padding-top:20px;
 }
