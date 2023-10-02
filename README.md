@@ -140,10 +140,48 @@ The instructions are a follows:
 ## TESTING
 ### Principles of automated and manual testing
 Automated testings are performed with according to a script. And also automated testings are executed via test automation frameworks and with other tools and software. Therefore automated testings are faster.
-
 Automated testing allows the developers to test as much as they want without making high costs.Not only giving the benefit of frequent testing, it provides the continuous feedback to the developer to spot the bugs and errors at the beginning. And also it allows the developer to improve the design, code quality, timely launches, reduces the quality, low mainenance.
-
 Manual testings are performed by humans step by steps without a script. And in manual testing, exploratary testings are posible.
+
+
+In javascript, automated testings are performed with the use of software tools and frameworks to write and execute tests the code automatically. The main purpose of using the automated testing is to ensure that the code you write in the Javascript, functions correctly, maintains its integrity and to be able to work as expected as you make changes and updates to your codebase.
+
+There are many types of testing in Javascript.
+1. Unit Testing
+The unit testing refers to testing individual units or functions of the Javascript code in isolation. You write test cases that check whether the particular function or component produces the output according to the given set of input. Some of the popular testing frameworks for Javascript for unit testing are Jasmine, Mocha, and Jest.
+
+2. Integration Testing
+Intigration testing involves in focusing on testing the interactions between different components or modules of your application. This testing ensures that these components work together as expected. Examples of tools of integration testing are Jest, Cypress and Selenium.
+
+3. End-to-End (E2E) Testing
+E2E testing replicate the user interations with your application to ensure that it functions correctly as a whole. E2E testing often involves automating interactions with a web browser or a mobile application. Some of the popular types of E2E testings are Cypress, Puppeteer and WebDriver.io.
+
+4. Functional Testing
+Functional testing involves to verify that your application's features and functionalities work as expected. This mainly involves testing user interfaces, user flows, and user interactions. Examples of frameworks for functional testings are Testcafe and Playwrite.
+
+5. Snapshot Testing
+This testing involves in capturing the current state of the component or output and compares it to a previously saved "snapshot". Mostely this testing type is used to test the UI components to ensure that they do not unintentionally change their appearance or behaviour. Commonly used snapshot testing is Jest.
+
+6. Performance Testing 
+This type of testing involves on evaluating the performance characteristics of Javascript  code or application. Lighthouse and WebPageTest are some of the examples that can help assess factors such as page load times, resourse usage or overall performance.
+
+
+### The benefits of Automated testing
+* Faster Feedback
+* Regression Testing (Unintended side effects)
+* Increased confidence (Less likely to introduce bugs)
+* Documentation (Test cases can be used as documentation for how different parts of the code should behave)
+
+
+
+
+
+
+
+
+
+
+
 
 ### Testing in this application
 
