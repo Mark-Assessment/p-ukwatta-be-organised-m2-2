@@ -223,10 +223,25 @@ The screen shots are as follows:
 
 ## TESTING USER STORIES
 
+The following screenshot shows that the user stories have been answered.
+
 ![Alt text](image.png)
 
-### First timer visitor
-* I find this web application easier to navigate with the dropdown menu and the color themes that have been used are very beautiful that encourage to use and stay on the application while making the day to day tasks organised.
+1. To get an idea how to achieve each task with an allocated time.
+2. To get an idea how to organise your day to day tasks.
+3. To be able to view the application on a range of device sizes.
+
+
+
+
+### First time visitor
+1. This application has a very easy allocation of the task that needs to be achieved and the time allocation is very straight forward that can be set easily and clearly.
+
+2. In this application's user-friendly task allocations give the user an idea that how to organise your day to day tasks
+
+3. Being able to view this application and use this application in a range of device sizes make our lives easier.
+
+
 
 ### Returning Visitor
 * This application is very helpful when organising daily routines and working according to a stopwatch.
