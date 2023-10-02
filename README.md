@@ -43,9 +43,10 @@
 ## USER EXPERIENCE
 
 ### First Time Visitor Goals
-1. To be able to view the application on a range of device sizes.
+1. To get an idea how to achieve each task with an allocated time.
 2. To get an idea how to organise your day to day tasks.
-3. To get an idea how to achieve each task with an allocated time.
+3. To be able to view the application on a range of device sizes.
+
 
 ### Frequent Visitor Goals
 
@@ -221,6 +222,8 @@ The screen shots are as follows:
 *********
 
 ## TESTING USER STORIES
+
+![Alt text](image.png)
 
 ### First timer visitor
 * I find this web application easier to navigate with the dropdown menu and the color themes that have been used are very beautiful that encourage to use and stay on the application while making the day to day tasks organised.
