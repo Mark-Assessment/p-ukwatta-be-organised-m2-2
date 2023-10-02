@@ -190,8 +190,8 @@ Manual Testing involve the process of testing software manually without using au
 ### Testing in this application
 
 Considering the automation and manual testing, in this application manual testings have been performed. And also other reasons for performing manual testings are, 
-     * Human observation can be used in this application which can be useful to offer user-friendly system.
-     * Automation tests can be time consuming when testing small changes in the codes. 
+* Human observation can be used in this application which can be useful to offer user-friendly system.
+* Automation tests can be time consuming when testing small changes in the codes. 
 
 ### W3C Validator
 W3C Validator has been used to validate all three HTML pages and CSS pages.
