@@ -138,7 +138,7 @@ The instructions are a follows:
 6. Click Save. Your live Github pages site is now deployed at the URL down.
 
 ## TESTING
-### Principles of automated and manual testing
+### Principles of Automated Testing
 In javascript, automated testings are performed with the use of software tools and frameworks to write and execute tests the code automatically. The main purpose of using the automated testing is to ensure that the code you write in the Javascript, functions correctly, maintains its integrity and to be able to work as expected as you make changes and updates to your codebase.
 
 There are many types of testing in Javascript.
@@ -169,18 +169,27 @@ This type of testing involves on evaluating the performance characteristics of J
 
 
 
+### Principles of Manual Testing
+
+Manual Testing involve the process of testing software manually without using automated testing tools or scripts. Manual testing is done by a human tester who interacts with the application or code to identify or verify issues such as bugs, userbility problems and other issues that can effect the software's functionality or user experience.
 
 
+### Some steps and techniques of manual testing
 
+* Understanding the Requirements (The clear understanding of the requirements and expectations for the software before testing)
 
+* Test Planning
 
+* Test Execution (Run the code using a web browser, comand-line interface, or any other environment.)
 
+* Positive and negative Testing (Positive testing is the functioning of the application as expected and negative testing involves checking how the application handles error and exceptions)
 
+* Userbility Testing (Assessing the user interface for usability, consistancy and intuitiveness. And verify that the design follows best practices and that it is user-friendly)
 
 
 ### Testing in this application
 
-In this application manual testings have been performed. The reasons for performing manual testings are, 
+Considering the automation and manual testing, in this application manual testings have been performed. And also other reasons for performing manual testings are, 
      * Human observation can be used in this application which can be useful to offer user-friendly system.
      * Automation tests can be time consuming when testing small changes in the codes. 
 
