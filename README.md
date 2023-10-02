@@ -139,11 +139,6 @@ The instructions are a follows:
 
 ## TESTING
 ### Principles of automated and manual testing
-Automated testings are performed with according to a script. And also automated testings are executed via test automation frameworks and with other tools and software. Therefore automated testings are faster.
-Automated testing allows the developers to test as much as they want without making high costs.Not only giving the benefit of frequent testing, it provides the continuous feedback to the developer to spot the bugs and errors at the beginning. And also it allows the developer to improve the design, code quality, timely launches, reduces the quality, low mainenance.
-Manual testings are performed by humans step by steps without a script. And in manual testing, exploratary testings are posible.
-
-
 In javascript, automated testings are performed with the use of software tools and frameworks to write and execute tests the code automatically. The main purpose of using the automated testing is to ensure that the code you write in the Javascript, functions correctly, maintains its integrity and to be able to work as expected as you make changes and updates to your codebase.
 
 There are many types of testing in Javascript.
