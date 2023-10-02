@@ -223,16 +223,11 @@ The screen shots are as follows:
 
 ## TESTING USER STORIES
 
-The following screenshot shows that the user stories have been answered.
-
+The following screenshot shows the first time visitor goals and these goals have been achieved below.
+ *****************
 ![Alt text](image.png)
 
-1. To get an idea how to achieve each task with an allocated time.
-2. To get an idea how to organise your day to day tasks.
-3. To be able to view the application on a range of device sizes.
-
-
-
+**********************
 
 ### First time visitor
 1. This application has a very easy allocation of the task that needs to be achieved and the time allocation is very straight forward that can be set easily and clearly.
