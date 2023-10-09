@@ -89,3 +89,9 @@ cursor: pointer;
 padding:10px 10px;
 border-radius: 10px;
 }
+
+@media only screen and (max-width: 900px) {
+  .todo-grid, .todo-input-grid {
+    grid-template-columns: 350px 200px 150px;
+  }
+}
