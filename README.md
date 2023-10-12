@@ -257,7 +257,7 @@ I would like to take this as an opportunity to acknowledge the following people 
 1. Ms Rachel Furlong -  the tutor, for her help in completing my project.
 2. Mr Ben Kavanagh - the mentor, for his help in the second miestone project
 
-And also I used ChatGPT to learn and get assistance in many occasions.
+And also I used ChatGPT to learn and get assistance for this application in many occasions.
 
 
 
